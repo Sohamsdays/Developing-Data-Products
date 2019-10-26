@@ -1,3 +1,3 @@
 # Developing-Data-Products
 Reproducible Pitch Presentation
-[a link](https://www.google.com)
+[The reproducible pitch presentation](http://rpubs.com/sohamsdays/reproduciblepitch)
